@@ -1,0 +1,3 @@
+To run this LLM model, first install OLLAMA
+
+Then, type ollama run hf.co/asimn7/SUPERTRUCK-AI
